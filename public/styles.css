@@ -1,0 +1,13 @@
+.heading {
+  color: red;
+}
+
+ul li {
+  color: blue;
+  list-style-type: none;
+}
+
+.food-img {
+  height: 100px;
+  width: 100px;
+}
